@@ -1,6 +1,6 @@
 # Tracker_cv
 
-![Image](docs/images/img.png)
+![](docs/video/vid.mp4)
 
 Real-Time Object Tracker written in Python using OpenCV and Qt.
 
